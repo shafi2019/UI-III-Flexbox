@@ -63,4 +63,139 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Copy and paste your work from yesterday here and start to refactor into flexbox */
+nav {
+	font-size: 20px;
+}
+body{
+	margin-left: 280px;
+}
+
+/* Your code starts here! */
+
+
+.main-Div-class{
+	border: none;
+	position: center;
+	width: 77%;
+	
+}
+.secondDiv{
+	border: none;
+	position: center;
+	width: 77%;
+	
+}
+.navbar{
+	border: none;
+	float: left;
+	
+}
+
+.navbar a{
+	margin: 25px;
+	text-decoration: none;
+	font-size: 15px;
+	color: gray;
+	margin-left: 5px;
+}
+.logoclass{
+	border: none;
+	float: right;
+	margin-right: 3%;
+	
+}
+.innovationclass{
+	border: none;
+	font-family: 'Bangers', cursive;
+	text-align: center;
+	font-size: 70px;
+	display: inline-block;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+.startclass h3{
+	border: 1px solid black;
+	font-size: 13px;
+	width: 60%;
+	margin: 5%;
+	padding: 2%;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.topimgclass{
+	border: none;
+	float: right;
+}
+div{
+	margin: 1%;
+	display: inline-block;	
+}
+hr{
+	width: 77%;
+	float: left;
+	margin-left: 15px;
+
+}
+.Div3{
+	border: none;
+	width: 77%;
+	padding: 15px;
+	text-align: justify;
+}
+.leftP{
+	border: none;
+	width: 49%;
+	float: left;
+}
+.rightP{
+	border: none;
+	width: 49%;
+	float: right;
+	
+}
+.imgDiv{
+	border: none;
+	width: 77%;
+	padding-right: 20px;
+	
+	
+}
+.imgS{
+ padding-left: 5px;
+}
+#Div4{
+	border: none;
+	width: 77%;
+	text-align: justify;
+	margin: 2%;
+	display: inline-block;	
+}
+.Pclass{
+	border: none;
+	display: inline-table;
+	margin: 1%;
+	width: 31%;
+	margin-right: 1%;
+	
+}
+.addressclass{
+	border:2px none;
+	width: 77%;
+}
+
+.addressbar{
+	border: none;
+	margin-left: 15px;
+	line-height: 1.7em;
+
+}
+.footerclass{
+	width: 77%;
+	border: none;
+	
+}
+.footer2{
+	text-align: center;
+}
